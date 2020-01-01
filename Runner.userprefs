@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\item\BaseItem.cs">
+    <Files>
+      <File FileName="Assets\Scripts\LifeController.cs" Line="42" Column="1" />
+      <File FileName="Assets\Scripts\WSETTINGS.cs" Line="134" Column="29" />
+      <File FileName="Assets\Scripts\SpawnObjects.cs" Line="33" Column="13" />
+      <File FileName="Assets\Scripts\item\Heart.cs" Line="18" Column="24" />
+      <File FileName="Assets\Scripts\item\BaseItem.cs" Line="19" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

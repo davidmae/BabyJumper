@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: 6643380e9e34dbd46a9d81b5cfb023b6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bebe_head
+    21300002: bebe_eyes1
+    21300004: bebe_chest
+    21300006: bebe_arms
+    21300008: bebe_foots
+    21300010: bebe_noisemouth
+    21300012: bebe_eyes2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: bebe_head
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 260
+        height: 134
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bebe_eyes1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 317
+        width: 69
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bebe_chest
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 211
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bebe_arms
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 173
+        width: 123
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bebe_foots
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 135
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bebe_noisemouth
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 288
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bebe_eyes2
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 313
+        width: 75
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
